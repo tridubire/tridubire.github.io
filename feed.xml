@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en" xml:base="http://localhost:8080/">
+  <title>TRIDUBIRE</title>
+  <subtitle>Keep in touch with everything related to TRIDUBIRE and Trifolium dubium genomics.</subtitle>
+  <link href="http://localhost:8080/feed.xml" rel="self" />
+  <link href="http://localhost:8080/" />
+  <updated>2024-07-22T10:44:20Z</updated>
+  <id>http://localhost:8080/</id>
+  <author>
+    <name>Katie Herron</name>
+  </author>
+	<entry>
+      <title>📢 Stay tuned!</title>
+      <link href="http://localhost:8080/blog/%F0%9F%93%A2-stay-tuned/" />
+      <updated>2024-07-17T00:00:00Z</updated>
+      <id>http://localhost:8080/blog/%F0%9F%93%A2-stay-tuned/</id>
+      <content type="html">
+				&lt;p&gt;More coming soon! Keep an eye both here and on socials for new project updates.&lt;/p&gt;
+
+ 			</content>
+    </entry></feed>
