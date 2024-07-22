@@ -1,13 +1,27 @@
 name: Eleventy Build
-on: [push]
 
+on:
+  push:
+    branches:
+      - main
+      
 jobs:
-  build-deploy:
-    name: Eleventy Build
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Build
-        uses: TartanLlama/actions-eleventy@master
+      - uses: actions/checkout@v2
+
+      - name: Setup Node
+        uses: actions/setup-node@v1
         with:
-          args: --output _dist
-          install_dependencies: true
+          node-version: '10.x'
+
+      - run: npm ci
+
+      - run: npm run build
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: $
+          publish_dir: ./dist
