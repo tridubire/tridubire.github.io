@@ -111,7 +111,5 @@ export default async function (eleventyConfig) {
       includes: '_includes',
       layouts: '_layouts'
     },
-    
-    pathPrefix: "/tridubire.github,io/",
   };
 }
