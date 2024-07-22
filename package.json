@@ -17,7 +17,7 @@
     "build:11ty": "cross-env ELEVENTY_ENV=production eleventy",
     "start": "npx @11ty/eleventy --serve --quiet",
     "build": "npx @11ty/eleventy",
-    "build-ghpages": "npx @11ty/eleventy --pathprefix=/tridubire.github.io/"
+    "build-ghpages": "npx @11ty/eleventy"
   },
   "keywords": [],
   "repository": {
