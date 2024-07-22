@@ -160,9 +160,6 @@ TRIDUBIRE will offer essential data for future monitoring and conservation effor
 ## Team
 Our team is made up of a group of researchers affiliated with University College Dublin (UCD).
 
-For any questions relating to the project, we ask you to kindly contact us via the project email (<a href="mailto: tridubire@gmail.com">tridubire@gmail.com</a>).
-
-### Team members
 <b>Katie Herron</b>
 PhD Student (UCD)
 {% svg "platform/x", "inline-style", "block-size: 3ex; fill: var(--color-tertiary); color: var(--color-text);" %}: <a href="https://x.com/kherronism">@kherronism</a>
@@ -175,6 +172,8 @@ Assistant Professor (UCD)
 Assistant Researcher (University of Santa Cruz, California (UCSC))
 Adjunct Assistant Professor (UCD) 
 {% svg "platform/x", "inline-style", "block-size: 3ex; fill: var(--color-tertiary); color: var(--color-text);" %}: <a href="https://x.com/CartneyAnn">@CartneyAnn</a>
+
+For any questions relating to the project, we ask you to kindly contact us via the project email (<a href="mailto: tridubire@gmail.com">tridubire@gmail.com</a>).
 
 ## Funding
 This project has received funding from the European Union under the European Union’s Horizon Europe research and innovation programme, co-funded by the Swiss Government and the British Government. 
