@@ -153,7 +153,7 @@ To achieve this, samples of <em>T. dubium</em> will be collected across Ireland 
   </div>
 </div>
 
-TRIDUBIRE will offer essential data for future monitoring and conservation efforts. By providing a genetic baseline for <em>T. dubium</em> in Ireland, the project will enable tracking changes in genetic diversity over time, identifying potential threats from environmental changes, and ultimately guiding conservation strategies to preserve this culturally significant species. Additionally, this study can serve as a model for other widespread but ecologically significant species, demonstrating the utility of genomic methods in conservation and agriculture.
+TRIDUBIRE will offer essential data for future monitoring and conservation efforts. By providing a genetic baseline for <em>T. dubium</em> in Ireland, the project will enable the tracking of changes in genetic diversity over time, identifying potential threats from environmental changes, and ultimately guiding conservation strategies to preserve this culturally significant species. Additionally, this study can serve as a model for other widespread but ecologically significant species, demonstrating the utility of genomic methods in conservation and agriculture.
 
 ## Team
 Our team is made up of a group of researchers affiliated with University College Dublin (UCD).
