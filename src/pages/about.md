@@ -132,7 +132,7 @@ Whilst not as prominently used in agriculture, <em>T. dubium</em> holds potentia
 ## Project overview
 TRIDUBIRE aims to assess the genetic diversity within and between Irish populations of <em>T. dubium</em>, offering insights into the species' adaptive potential amidst environmental changes. As part of this, we will sample from both mainland and outlying island populations, evaluating gene flow and assessing population connectivity. 
 
-To achieve this, samples of <em>T. dubium</em> will be collected across Ireland and a pool-seq (pooled sequencing) approach implemented, whereby the DNA of multiple individuals are sequenced together as single pool.
+To achieve this, samples of <em>T. dubium</em> will be collected across Ireland and a pool-seq (pooled sequencing) approach implemented, where the DNA of multiple individuals will be sequenced together as single pool per sample collection site.
 
 {# image "./src/assets/images/gallery/sample_counties.png", "alt", "test", "eager", null, null #}
 
