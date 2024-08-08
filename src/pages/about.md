@@ -45,7 +45,7 @@ TRIDUBIRE looks to assess the genetic diversity and evolutionary history of popu
     <h3>Who is the "true shamrock"?</h3> 
     <em>There is no single species universally accepted as being the shamrock.</em><br><br>
     
-    <u>However</u>, surveys conducted over the years, including those by Nathaniel Colgan in 1893 and E. Charles Nelson in 1988, indicate that the majority of Irish people consider the <b>lesser trefoil, <em>Trifolium dubium</em></b>, to be the <em>"true shamrock".</em> <a href="/about/#references">(1-3)</a> <em>T. dubium</em> remains the species most commonly grown commercially as "shamrock" and is particularly popular in the run up to St. Patrick’s Day celebrations.
+    <u>However</u>, surveys conducted over the years, including those by Nathaniel Colgan in 1893 and E. Charles Nelson in 1988, indicate that the majority of Irish people consider the <b>lesser trefoil, <em>Trifolium dubium</em></b>, to be the <em>"true shamrock"</em>. <a href="/about/#references">(1-3)</a> <em>T. dubium</em> remains the species most commonly grown commercially as "shamrock" and is particularly popular in the run up to St. Patrick’s Day celebrations.
   </div>
   <div style="background-color: var(--color-bg-accent-2); border-radius: 25px; padding: 10px; margin: 2% 2% 2% 2%;">
   <table cellspacing=0px>
@@ -127,8 +127,7 @@ TRIDUBIRE looks to assess the genetic diversity and evolutionary history of popu
   </div>
 </ul>
 <div style="margin: 0;">
-Whilst not as prominently used in agriculture, <em>T. dubium</em> holds potential in supporting sustainable agricultural practices and may be useful in areas with poor soil fertility, where other clover species may struggle to establish. Further <em>T. dubium</em> is noted for its frost tolerance, as well as its production of condensed tannins said to reduce bloat in ruminants. (<a href="/about/#references">5, 6</a>)</div>
-
+Whilst not as prominently used in agriculture, <em>T. dubium</em> holds potential in supporting sustainable agricultural practices and may be useful in areas with poor soil fertility, where other clover species may struggle to establish. Further, <em>T. dubium</em> is noted for its frost tolerance, as well as its production of condensed tannins said to reduce bloat in ruminants. (<a href="/about/#references">5, 6</a>)</div>
 
 ## Project overview
 TRIDUBIRE aims to assess the genetic diversity within and between Irish populations of <em>T. dubium</em>, offering insights into the species' adaptive potential amidst environmental changes. As part of this, we will sample from both mainland and outlying island populations, evaluating gene flow and assessing population connectivity. 
@@ -154,8 +153,7 @@ To achieve this, samples of <em>T. dubium</em> will be collected across Ireland 
   </div>
 </div>
 
-
-TRIDUBIRE will offer essential data for future monitoring and conservation efforts. By providing a genetic baseline for <em>T. dubium</em> in Ireland, the project will enable tracking changes in genetic diversity over time, identifying potential threats from environmental changes, and ultimately guiding conservation strategies to preserve this culturally significant species. Additionally, this study can serve as a model for other widespread but ecologically significant species, demonstrating the utility of the application of genomic methods in conservation and agriculture.
+TRIDUBIRE will offer essential data for future monitoring and conservation efforts. By providing a genetic baseline for <em>T. dubium</em> in Ireland, the project will enable tracking changes in genetic diversity over time, identifying potential threats from environmental changes, and ultimately guiding conservation strategies to preserve this culturally significant species. Additionally, this study can serve as a model for other widespread but ecologically significant species, demonstrating the utility of genomic methods in conservation and agriculture.
 
 ## Team
 Our team is made up of a group of researchers affiliated with University College Dublin (UCD).
