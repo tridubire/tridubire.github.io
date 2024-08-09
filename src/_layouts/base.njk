@@ -3,7 +3,7 @@
 <!doctype html>
 <html lang="{{ meta.lang }}">
   <!-- The order of elements in the head follows recommendations by Harry Roberts. learn more here: https://www.youtube.com/watch?v=MHyAOZ45vnU -->
-
+  
   <head>
     <!-- 1 charset/viewport -->
     <meta charset="UTF-8" />
@@ -41,6 +41,16 @@
     <!-- 8 defer  -->
     {% include "head/js-defer.njk" %}
   </head>
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5J7W98K3YF"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-5J7W98K3YF');
+  </script>
 
   <body class="{{ layout }}">
     {% include "partials/header.njk" %}
