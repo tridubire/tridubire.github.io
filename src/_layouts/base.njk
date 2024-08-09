@@ -42,15 +42,9 @@
     {% include "head/js-defer.njk" %}
   </head>
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5J7W98K3YF"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+  <!-- Plausbile tag -->
+  <script defer data-domain="tridubire.github.io" src="https://plausible.io/js/script.js"></script>
 
-    gtag('config', 'G-5J7W98K3YF');
-  </script>
 
   <body class="{{ layout }}">
     {% include "partials/header.njk" %}
